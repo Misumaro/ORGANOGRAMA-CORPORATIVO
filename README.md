@@ -16,8 +16,6 @@ Projeto web para visualização de **Organograma Corporativo Avançado**, desenv
 🔗 **GitHub Pages:**
 https://misumaro.github.io/ORGANOGRAMA-CORPORATIVO/
 
-> ℹ️ Para habilitar: *Settings → Pages → Deploy from branch → main / root*
-
 ---
 
 ## 🧩 Funcionalidades
