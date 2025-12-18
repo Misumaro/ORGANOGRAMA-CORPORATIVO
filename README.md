@@ -14,7 +14,7 @@ Projeto web para visualização de **Organograma Corporativo Avançado**, desenv
 ## 🚀 Demonstração
 
 🔗 **GitHub Pages:**
-[https://seu-usuario.github.io/organograma/](https://seu-usuario.github.io/organograma/)
+https://misumaro.github.io/ORGANOGRAMA-CORPORATIVO/
 
 > ℹ️ Para habilitar: *Settings → Pages → Deploy from branch → main / root*
 
@@ -106,12 +106,6 @@ O foco está em **governança visual**, **leitura rápida** e **experiência do 
 3. (Opcional) Substitua a logo em `assets/logo.png`
 
 4. Edite os cargos e nomes diretamente no HTML conforme a estrutura da sua empresa
-
----
-
-## 📸 Preview
-
-> *(Recomendado adicionar um print da tela principal do organograma aqui)*
 
 ---
 
